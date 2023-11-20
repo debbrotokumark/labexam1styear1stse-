@@ -10,7 +10,7 @@ public:
    public: void fun();
 
    int ab(){
-    cout<<aa<<endl;
+    cout<<a<<endl;
     }
 
 };
